@@ -1,1 +1,1 @@
-# cartpole_rl
+# atari rl
